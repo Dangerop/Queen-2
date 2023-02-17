@@ -2,25 +2,25 @@
 
 
 <p align="center">
-    <br><b> 🦋͜͡⍣𝐆𝐉𝟓𝟏𝟔✨𝐌𝐔𝐒𝐈𝐂♪➺ 
+    <br><b> 🦋͜͡⍣Queen ✘ ʀᴏʙᴏᴛ➺ 
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/ADVENTURE_FAMILYS"><img src="https://telegra.ph/file/9a42a0c6c293f021f5445.jpg"></a></p>
+<p align="center"><a href="https://t.me/QN_Team_support"><img src="https://telegra.ph/file/ed1e4016b2209a6d219cb.jpg"></a></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=GJ516+play+music+on+telegram+voice+chat+feature;Managed+by+export+gabbar%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Queen+play+music+on+telegram+voice+chat+feature;Managed+by+Danger+Choudhary%E2%9D%A4%EF%B8%8F"> 
 
  </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/MrProgrammer72/GJ516VCBOT?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/license/MrProgrammer72/GJ516VCBOT?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/commit-activity/w/MrProgrammer72/GJ516VCBOT=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/MrProgrammer72/GJ516VCBOT/commits/MrProgrammer72"> <img src="https://img.shields.io/github/last-commit/MrProgrammer72/GJ516VCBOT?color=green&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <img src="https://img.shields.io/github/contributors/MrProgrammer72/GJ516VCBOT?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/stars/Dangerop/Queen-2?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Dangerop/Queen-2?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/Dangerop/Queen-2?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/Dangerop/Queen-2?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/Dangerop/Queen-2=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/MrProgrammer72/GJ516VCBOT/commits/Dangerop"> <img src="https://img.shields.io/github/last-commit/MrProgrammer72/GJ516VCBOT?color=green&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/contributors/Dangerop/Queen-2?style=for-the-badge" alt="Contributors">
     <a href="https://github.com/MrProgrammer72/GJ516VCBOT/issues"> <img src="https://img.shields.io/github/issues/MrProgrammer72/GJ516VCBOT?color=green&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/MrProgrammer72/GJ516VCBOT"> <img src="https://img.shields.io/github/repo-size/MrProgrammer72/GJ516VCBOT?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=pink&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
