@@ -55,7 +55,7 @@ async def play(_, message: Message):
 
     await message.delete()
 
-    programmer = await message.reply("🔄 Processing Query... Please Wait!")
+    programmer = await message.reply("🕺♥️ʙᴀʙʏ sᴏɴɢ ɪs ᴘʟᴀʏɪɴɢ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ▷😊✌️")
 
     chumtiya = message.from_user.mention
 
@@ -65,7 +65,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Exportgabbar"
+        user.first_name = "D4nGeR_0pBolte"
     usar = user
     wew = usar.id
     try:
@@ -207,11 +207,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("📨 Updates", url=f"https://t.me/TheQueenUpdates")
+                    InlineKeyboardButton("📨 Updates", url=f"https://t.me/QN_Bot_Updates")
                 ],
                 [
                     InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play"),
-                    InlineKeyboardButton("👤 powered by", url=f"https://t.me/QUEEN_NETWORK")
+                    InlineKeyboardButton("👤 powered by", url=f"https://t.me/QN_Team_support")
                 ],
             ]
         ),
@@ -234,11 +234,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("📨 Updates ", url=f"https://t.me/TheQueenUpdates")
+                    InlineKeyboardButton("📨 Updates ", url=f"https://t.me/QN_Bot_Updates")
                 ],
                 [
                     InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play"),
-                    InlineKeyboardButton("👤 Powered by ", url=f"https://t.me/QUEEN_NETWORK")
+                    InlineKeyboardButton("👤 Powered by ", url=f"https://t.me/QN_Team_support")
                 ],
             ]
         ),
