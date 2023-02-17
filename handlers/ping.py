@@ -68,7 +68,7 @@ async def help(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "💡Git repo ", url="https://te.legra.ph/file/db7c6b18567b5e81165ad.mp4"
+                        "💡Git repo ", url="https://github.com/Dangerop/Queen-2"
                     )
                 ]
             ]
