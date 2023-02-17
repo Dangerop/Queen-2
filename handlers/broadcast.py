@@ -7,7 +7,7 @@ from pyrogram.errors import UserAlreadyParticipant
 from callsmusic.callsmusic import client as GJ516
 from config import SUDO_USERS
 
-@Client.on_message(filters.command(["broadcast", "gcast"]))
+@Client.on_message(filters.command(["broadcastxd", "gcastxd"]))
 async def broadcast(_, message: Message):
     await message.delete()
     sent=0
