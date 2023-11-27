@@ -37,7 +37,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-@Client.on_message(command(["ping", "repo", "gabbar", "alive"]) & filters.group & ~filters.edited & ~filters.private)
+@Client.on_message(command(["ping", "repo", "Dangerop", "alive"]) & filters.group & ~filters.edited & ~filters.private)
 
 async def help(client: Client, message: Message):
     await message.delete()
@@ -49,7 +49,7 @@ async def help(client: Client, message: Message):
     start = datetime.now()
     end = datetime.now()
     resp = (end - start).microseconds / 1000
-    await message.reply_sticker("CAACAgUAAx0CZ80CewABAn7iY0QmDt7nsecHlSDH7oMXmtavNH4AAhMHAALnnCFW1zONdkHrocAeBA")
+    await message.reply_sticker("https://telegra.ph/file/ed1e4016b2209a6d219cb.jpg")
     jay = await message.reply_photo(
         photo=f"{PING_IMG}",
         caption=" Pinging...⚡ ",
