@@ -35,14 +35,14 @@ async def start_(client: Client, message: Message):
                         "👤 Bot Owner ", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"https://t.me/MAFIA_RJ"
+                        "👨‍💻 Developer ", url=f"https://t.me/D4nGeR_0pBolte"
                     ),
                   ],[
                     InlineKeyboardButton(
                         "✅ Inline ", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "💡 Git repo", url="https://te.legra.ph/file/d3f87fbd9a9337eaaa148.jpg"
+                        "💡 Git repo", url="https://t.me/helping_support"
                     )]
             ]
        ),
