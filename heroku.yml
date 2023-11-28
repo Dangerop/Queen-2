@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: Queen-2
+  worker: bash Queen-2
